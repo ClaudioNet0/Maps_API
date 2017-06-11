@@ -1,0 +1,23 @@
+#controls {
+    position: absolute;
+    left: 300px;
+    width: 140px;
+    top: 0px;
+    z-index: 5;
+    background-color: #fff;
+}
+#country {
+    width: 100%;
+}
+#iw-container{
+    height: 150px;
+}
+#iw-container .iw-title{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 14px;
+}
+#iw-container .img{
+    height: 180px;
+    width: 100%;
+    border-radius: 5px 5px 5px 5px;
+}
